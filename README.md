@@ -1,13 +1,13 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
+    <img alt="𝗗𝗘𝗔𝗧𝗛-𝗦𝗧𝗥𝗢𝗞𝗘" width="600" height="350" src="https://telegra.ph/file/243ba225aa89b5a8006ae.png">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/owlai01/Owl-Ai"><img title="Author" src="https://img.shields.io/badge/THE 𝐎𝐖𝐋-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/yobbyflame/DEATH-STROKE"><img title="Author" src="https://img.shields.io/badge/𝗗𝗘𝗔𝗧𝗛-𝗦𝗧𝗥𝗢𝗞𝗘 -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">𓅓𝐎𝐖𝐋-𝐀𝐈𓅓</h1>
+<h1 align="center">✞︎𝗗𝗘𝗔𝗧𝗛-𝗦𝗧𝗥𝗢𝗞𝗘☠︎︎</h1>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
